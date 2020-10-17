@@ -5,4 +5,5 @@ I used object-oriented programming to build this game. To avoid duplicate code, 
 <img src="walkthrough.gif"><br>
 
 Walkthrough created using LICEcap
+
 Skeleton code provided by CS 32 professors Carey Nachenberg and David Smallberg
